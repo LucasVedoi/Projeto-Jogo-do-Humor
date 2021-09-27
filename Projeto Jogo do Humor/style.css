@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(255, 0, 55);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+main { 
+background-color: grey;
+display: flex;
+justify-content: center;
+}
